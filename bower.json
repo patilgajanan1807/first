@@ -6,6 +6,17 @@
     "bower_components",
     "output"
   ],
+  "homepage": "https://github.com/patilgajanan1807/first",
+"description": "first app",
+"authors": [
+"Gajanan Patil"
+],
+"repository": {
+"type": "git",
+"url": "git://github.com/patilgajanan1807/first.git"
+},
+"version": "v0.1.0",
+"license": "AGPL-1.0",
   "dependencies": {
     "purescript-prelude": "^4.1.0",
     "purescript-console": "^4.2.0",
